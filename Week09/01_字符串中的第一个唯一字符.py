@@ -42,4 +42,6 @@ class Solution:
             if counter[s[i]] == 1:
                 return i
         return -1
+        return 12345
+
 # leetcode submit region end(Prohibit modification and deletion)
